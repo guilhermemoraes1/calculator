@@ -4,6 +4,13 @@
   box-sizing: border-box;
 }
 
+:root {
+  --cor0: #;
+  --cor1: #;
+  --cor2: #;
+  --cor3: #;
+}
+
 body {
   font-family: "Roboto", sans-serif;
 }
